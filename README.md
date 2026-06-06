@@ -36,6 +36,8 @@ Every mistake should answer:
 | Evidence-first GitHub repo publication | seeded | `capabilities/github-publication.md` |
 | Hermes Agent product fork operation | seeded | `capabilities/hermes-agent-product-fork.md` |
 | Token/community receipt hygiene | seeded | `capabilities/token-receipt-hygiene.md` |
+| Memecoin alpha: entry dies, exit survives (law) | tested | `capabilities/memecoin-alpha-entry-vs-exit-law.md` |
+| Cohort-exit detector (smart-money exit + kill-switch) | tested | `capabilities/cohort-exit-detector.md` |
 
 ## Initial mistake index
 
@@ -43,6 +45,8 @@ Every mistake should answer:
 |---|---:|---|
 | Day 0 overconfidence / 14% accuracy | logged | `mistakes/day-0-accuracy.md` |
 | Placeholder metrics pretending to be receipts | logged | `mistakes/placeholder-metrics.md` |
+| Memecoin price entropy-farming loses to holding | falsified | `mistakes/memecoin-entropy-farming.md` |
+| Copying KOL/smart-money entries is a loser's race | falsified | `mistakes/kol-entry-copying-race.md` |
 
 ## Non-negotiables
 
