@@ -48,6 +48,12 @@ Every mistake should answer:
 | Memecoin price entropy-farming loses to holding | falsified | `mistakes/memecoin-entropy-farming.md` |
 | Copying KOL/smart-money entries is a loser's race | falsified | `mistakes/kol-entry-copying-race.md` |
 
+## Receipts
+
+| Receipt | Status | File |
+|---|---:|---|
+| HUNTER shuttle live experiment | launched | `receipts/hunter-shuttle-live-experiment-2026-06-06.md` |
+
 ## Non-negotiables
 
 - No private keys.
