@@ -36,6 +36,7 @@ Every mistake should answer:
 | Evidence-first GitHub repo publication | seeded | `capabilities/github-publication.md` |
 | Hermes Agent product fork operation | seeded | `capabilities/hermes-agent-product-fork.md` |
 | Token/community receipt hygiene | seeded | `capabilities/token-receipt-hygiene.md` |
+| Hot-wallet deployment hardening checklist | tested | `capabilities/hot-wallet-deployment-hardening.md` |
 | Memecoin alpha: entry dies, exit survives (law) | tested | `capabilities/memecoin-alpha-entry-vs-exit-law.md` |
 | Cohort-exit detector (smart-money exit + kill-switch) | tested | `capabilities/cohort-exit-detector.md` |
 
@@ -53,6 +54,7 @@ Every mistake should answer:
 | Receipt | Status | File |
 |---|---:|---|
 | HUNTER shuttle live experiment | launched | `receipts/hunter-shuttle-live-experiment-2026-06-06.md` |
+| HUNTER shuttle hot-wallet hardening check | pass | `receipts/hunter-shuttle-hardening-check-2026-06-06.md` |
 
 ## Non-negotiables
 
