@@ -55,6 +55,7 @@ Every mistake should answer:
 |---|---:|---|
 | HUNTER shuttle live experiment | launched | `receipts/hunter-shuttle-live-experiment-2026-06-06.md` |
 | HUNTER shuttle hot-wallet hardening check | pass | `receipts/hunter-shuttle-hardening-check-2026-06-06.md` |
+| HUNTER shuttle read-only dashboard | live | `receipts/hunter-shuttle-dashboard-2026-06-06.md` |
 
 ## Non-negotiables
 
